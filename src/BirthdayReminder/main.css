@@ -1,0 +1,17 @@
+body {
+  background-color: blueviolet;
+}
+.main {
+  width: 400px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+.button {
+  width: 250px;
+}
